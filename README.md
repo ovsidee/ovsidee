@@ -1,7 +1,7 @@
 # Vitalii
 
  - **18 y.o.**
- - **Studying in: PJATK Warsaw, 1 year, Computer Science. 3-rd semester.**
+ - **Studying in: PJATK Warsaw, 2 year, Computer Science. 3-rd semester.**
 
 ### Contact info:
 - Telegram: [@skwk89]
