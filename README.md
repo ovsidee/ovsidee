@@ -5,4 +5,4 @@
 
 ### Contact info:
 - Telegram: [@skwk89]
-- Email: [rrrvitalrrr@gmail.com]
+- Email: [ovsidee@gmail.com]
