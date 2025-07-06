@@ -1,7 +1,7 @@
-# Vitalii
+# Vitalii Korytnyi
 
  - **19 y.o.**
- - **Studying in: PJATK Warsaw, 2 year, Computer Science. 4-th semester.**
+ - **Studying in: PJATK Warsaw, 3 year, Computer Science. 5-th semester.**
 
 ### Contact info:
 - Telegram: [@skwk89]
