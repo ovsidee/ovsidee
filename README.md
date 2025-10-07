@@ -15,28 +15,15 @@ Currently, I'm developing educational and management systems that combine user e
 
 ## 🧩 Tech Stack
 
-- **Programming Languages:**  
-  Java, C#, C++, Python, JavaScript, Bash  
-- **Backend:**  
-  Spring Boot, ASP .NET, Hibernate, Entity Framework Core  
-- **Frontend:**  
-  HTML5, CSS, Bootstrap, Thymeleaf  
-- **Database:**  
-  SQL, H2, T-SQL, PL/SQL, PostgreSQL, Microsoft SQL Server, Oracle Database  
-- **Concepts:**  
-  MVC pattern, Networking, Data Structures, Algorithms  
-- **Version Control:**  
-  GitHub, Git  
-- **Tools:**  
-  Maven, Gradle, Docker  
-- **Testing:**  
-  JUnit 5, NUnit  
-
+- **Programming Languages:**  Java, C#, C++, Python, JavaScript, Bash  
+- **Backend:**   Spring Boot, ASP .NET, Hibernate, Entity Framework Core  
+- **Frontend:**  HTML5, CSS, Bootstrap, Thymeleaf  
+- **Database:**  SQL, H2, T-SQL, PL/SQL, PostgreSQL, Microsoft SQL Server, Oracle Database  
+- **Concepts:**  MVC pattern, Networking, Data Structures, Algorithms  
+- **Version Control:**  GitHub, Git  
+- **Tools:**  Maven, Gradle, Docker  
+- **Testing:**  JUnit 5, NUnit  
 ---
- 
-
- - **19 y.o.**
- - **Studying in: PJATK Warsaw, 3 year, Computer Science. 5-th semester.**
 
 ### Contact info:
 - Telegram: [@skwk89]
