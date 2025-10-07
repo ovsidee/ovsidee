@@ -1,13 +1,12 @@
 # Vitalii Korytnyi
 
-**3rd-year Computer Science student** at **PJATK Warsaw** 
+**A third-year Computer Science student** at **PJATK Warsaw** 
 Passionate about **backend development**, **Spring Boot**, and **web technologies**
 
 ---
 
 ## About Me
 
-I'm a 19-year-old developer with a strong interest in building modern, secure, and scalable web applications.  
 I enjoy working with **Java**, **Spring Boot**, and **Thymeleaf**, focusing on clean architecture and maintainable code.  
 Currently, I'm developing educational and management systems that combine user experience, functionality, and performance.
 
