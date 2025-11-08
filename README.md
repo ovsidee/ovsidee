@@ -14,13 +14,12 @@ Currently, I'm developing educational and management systems that combine user e
 
 ## 🧩 Tech Stack
 
-- **Programming Languages:**  Java, C#, C++, Python, JavaScript, Bash  
+- **Programming Languages:**  Java, C#, C++, Python, JavaScript, Bash
 - **Backend:**   Spring Boot, ASP .NET, Hibernate, Entity Framework Core  
-- **Frontend:**  HTML5, CSS, Bootstrap, Thymeleaf  
-- **Database:**  SQL, H2, T-SQL, PL/SQL, PostgreSQL, Microsoft SQL Server, Oracle Database  
-- **Concepts:**  MVC pattern, Networking, Data Structures, Algorithms  
+- **Database:**  SQL, H2, T-SQL, PL/SQL, PostgreSQL, Microsoft SQL Server, Oracle Database 
+- **Concepts:**  MVC pattern, SOLID, Networking, Data Structures, Algorithms 
 - **Version Control:**  GitHub, Git  
-- **Tools:**  Maven, Gradle, Docker  
+- **DevOps & Tools:**  Maven, Gradle, Docker, Linux, Postman, Swagger, XML, JSON  
 - **Testing:**  JUnit 5, NUnit  
 ---
 
